@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-Drag the-b</title>
+    <g id="灰鲸中台暗色系" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_bar_message" transform="translate(-200.000000, -165.000000)" fill="#3C7DFF" fill-rule="nonzero">
+            <g id="Icon-Drag-the-b" transform="translate(200.000000, 165.000000)">
+                <g id="拖动" transform="translate(7.000000, 4.000000)">
+                    <path d="M2,10.08 L2,12 L0,12 L0,10.08 L2,10.08 Z M6,10.08 L6,12 L4,12 L4,10.08 L6,10.08 Z M2,6.72 L2,8.64 L0,8.64 L0,6.72 L2,6.72 Z M6,6.72 L6,8.64 L4,8.64 L4,6.72 L6,6.72 Z M2,3.36 L2,5.28 L0,5.28 L0,3.36 L2,3.36 Z M6,3.36 L6,5.28 L4,5.28 L4,3.36 L6,3.36 Z M2,0 L2,1.92 L0,1.92 L0,0 L2,0 Z M6,0 L6,1.92 L4,1.92 L4,0 L6,0 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

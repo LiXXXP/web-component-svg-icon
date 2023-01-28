@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-more</title>
+    <g id="灰鲸中台暗色系" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息通知" transform="translate(-15.000000, -15.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icon-more" transform="translate(15.000000, 15.000000)">
+                <g id="更多" transform="translate(2.187500, 2.187500)">
+                    <path d="M0,0 L0,3.12484277 L15.6607444,3.12484277 L15.6607444,0 L0,0 Z M0,9.37484277 L15.6607444,9.37484277 L15.6607444,6.24984277 L0,6.24984277 L0,9.37484277 Z M0,15.625 L15.6607444,15.625 L15.6607444,12.5 L0,12.5 L0,15.625 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

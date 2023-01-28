@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon-cancel</title>
+    <g id="灰鲸中台暗色系" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav_bar_message" transform="translate(-15.000000, -15.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Icon-cancel" transform="translate(15.000000, 15.000000)">
+                <g id="编组" transform="translate(2.000000, 2.000000)">
+                    <polygon id="路径" transform="translate(8.000000, 8.000000) rotate(-315.000000) translate(-8.000000, -8.000000) " points="-2.04819301 9.26551549 18.048193 9.26551549 18.048193 6.73448451 -2.04819301 6.73448451"></polygon>
+                    <polygon id="路径" transform="translate(8.000000, 8.000000) rotate(-45.000000) translate(-8.000000, -8.000000) " points="-2.04819301 9.26551549 18.048193 9.26551549 18.048193 6.73448451 -2.04819301 6.73448451"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
